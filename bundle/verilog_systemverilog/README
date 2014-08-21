@@ -1,0 +1,4 @@
+This based on a mirror of http://www.vim.org/scripts/script.php?script_id=1586
+
+Additional local edits for UVM and other changes for modern usage.  Detects on
+*.v, *.vh, *.sv, and *.svh.
